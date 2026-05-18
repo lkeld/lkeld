@@ -1,4 +1,4 @@
-# hello, i am luke 😁😁
+# hello, i am luke 😁
 
 i build software that never gets shipped and rarely something that does.
 
