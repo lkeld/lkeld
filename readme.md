@@ -1,6 +1,6 @@
 # hello, i am luke 😁
 
-i build software that never gets shipped — and rarely something that does.
+i build software that never gets shipped - and rarely something that does.
 
 most of my work is private client stuff. coaching platforms, performance dashboards, proprietary tooling. the kind of code that lives behind NDAs and complicated client relationships. you won't see it here.
 
