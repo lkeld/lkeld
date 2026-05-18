@@ -10,8 +10,7 @@ what you will see:
 
 ### Projects
 
-**[fortress-wasm](https://github.com/lkeld/fortress-wasm)** — A WebAssembly hardening engine I built at 4am to stop someone from stealing my code. 
-
+**[fortress-wasm](https://github.com/lkeld/fortress-wasm)** — A bytecode VM I built at 4am to stop someone from stealing my code.
 ---
 
 ### Find me
