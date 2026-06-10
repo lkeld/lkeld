@@ -10,7 +10,9 @@ what you will see:
 
 ### projects
 
-**[fortress-wasm](https://github.com/lkeld/fortress-wasm)** — a bytecode VM i built at 4am to stop someone from stealing my code.
+**[fortress-wasm](https://github.com/lkeld/fortress-wasm)** — a bytecode VM i built at 4am to stop someone from stealing my code
+
+**[pinnacle](https://github.com/lkeld/pinnacle)** — a macos window pinner i rebuilt from a dead app that wouldn't even open on my mac
 
 ---
 
